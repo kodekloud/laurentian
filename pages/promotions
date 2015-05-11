@@ -101,7 +101,7 @@
                             
                             val.store_name = store_details.name
                         } else {
-                            val.alt_promo_image_url = "http://kodekloud.s3.amazonaws.com/sites/553912c46e6f645bc2000000/d9b90a9aff278549145256be3534ff76/default.jpg"
+                            val.alt_promo_image_url = "http://kodekloud.s3.amazonaws.com/sites/5550f3546e6f64107e000000/fcc0d826926a9685760152289870df57/default.jpg"
                         }
                         
                     } else {
