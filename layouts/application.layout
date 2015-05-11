@@ -45,7 +45,7 @@
     $(document).ready(function() {
         $.reject({  
             reject: { all: false, msie: 9 },  
-            header: 'Thanks for visiting Alpine Centre', // Header Text  
+            header: 'Thanks for visiting Laurentian Hills', // Header Text  
             paragraph1: 'Unfortunately your browser is not officially supported with our site', // Paragraph 1  
             paragraph2: 'For the best experience please install one of the many optional browsers below to proceed',  
             closeMessage: 'You may continue using the site however certain features and content may not be accessible. Thank you.',
@@ -80,7 +80,7 @@
             imagePath: '//cdn.jsdelivr.net/jquery.jreject/1.0.2/images/'
         });      
     });
-    setEndPoint('http://alpinecentre.mallmaverick.com/api/v2/alpinecentre/all.json');
+    setEndPoint('http://laurentianhills.mallmaverick.com/api/v2/laurentian/all.json');
     sessionStorage.setItem('primary_locale', 'en-CA');
     sessionStorage.setItem('secondary_locale', 'fr-CA');
 </script>
